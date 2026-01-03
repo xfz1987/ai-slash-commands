@@ -68,9 +68,13 @@ A collection of structured slash command specifications for AI-assisted engineer
 ## 文档逻辑关系
 
 ```
-需求来 → / 需求分析 @文件 / @对话 输出 analysis/20260103-analysis.md
-分析完成 → /plan @analysis.md 输出 plan/20260103-plan.md
-审阅计划 → /review @plan.md 输出 review/20260103-review.md
-生成测试矩阵 → /test @plan.md 输出 test/20260103-test.md
-UI / 交互拆解 → /design @plan.md 输出 design/20260103-design.md
+需求来 → / 需求分析 @文件 / @对话 输出 devdocs/analysis.md
+分析完成 → /plan @analysis.md 输出 devdocs/plan.md
+审阅计划 → /review @plan.md 输出 devdocs/review.md
+生成测试矩阵 → /test @plan.md 输出 devdocs/test.md
+UI / 交互拆解 → /design @plan.md 输出 devdocs/design.md
 ```
+
+## 开发
+
+/dev todo(你要做的事情)
