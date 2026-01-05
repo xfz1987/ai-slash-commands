@@ -1,0 +1,14 @@
+{
+  "name": "ai-slash-commands",
+  "version": "1.0.0",
+  "description": "A collection of structured slash command specifications for AI-assisted engineering workflows.",
+  "main": "cli-local-test.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
